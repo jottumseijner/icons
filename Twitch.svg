@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Twitch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Twitch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="twitch-fill" transform="translate(42.000000, 41.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M36,-9.9475983e-14 L36,23.48 L26.608,32.87 L18.782,32.87 L13.908,37.566 L7.826,37.566 L7.826,32.87 L0,32.87 L0,6.26 L2.454,-9.9475983e-14 L36,-9.9475983e-14 Z M32.87,3.13 L6.26,3.13 L6.26,26.61 L12.52,26.61 L12.52,31.304 L17.218,26.608 L26.608,26.608 L32.868,20.348 L32.868,3.13 L32.87,3.13 Z M26.61,9.39 L26.61,18.782 L23.478,18.782 L23.478,9.392 L26.608,9.392 L26.61,9.39 Z M18.782,9.39 L18.782,18.782 L15.652,18.782 L15.652,9.392 L18.782,9.392 L18.782,9.39 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

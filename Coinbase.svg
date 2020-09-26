@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Coinbase</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Coinbase" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <path d="M60,76 C64.6592537,76 68.8533588,74.0084624 71.7774957,70.8302068 C74.3991611,67.9807087 76,64.1773023 76,60 C76,55.6323104 74.2499142,51.6733752 71.4127293,48.7861812 C68.5098216,45.8321058 64.4688664,44 60,44 C51.163444,44 44,51.163444 44,60" id="Oval" stroke="#FFFFFF" stroke-width="5.5" stroke-linecap="square" transform="translate(60.000000, 60.000000) rotate(-135.000000) translate(-60.000000, -60.000000) "></path>
+    </g>
+</svg>

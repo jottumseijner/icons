@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Chrome</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Chrome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g>
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <g id="chrome" transform="translate(40.000000, 39.740260)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                <ellipse id="Oval" cx="20" cy="19.8701299" rx="20" ry="19.8701299"></ellipse>
+                <ellipse id="Oval" cx="20" cy="19.8701299" rx="8" ry="7.94805195"></ellipse>
+                <line x1="38" y1="11.9220779" x2="20" y2="11.9220779" id="Path"></line>
+                <line x1="4" y1="7.94805195" x2="13" y2="23.8441558" id="Path"></line>
+                <line x1="18" y1="39.7402597" x2="27" y2="23.8441558" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>

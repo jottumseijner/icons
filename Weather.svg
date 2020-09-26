@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Weather</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Weather" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g>
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <g id="cloud-lightning" transform="translate(37.000000, 37.753247)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <path d="M37,31.5935065 C42.0347855,30.5778016 45.4757374,25.9370082 44.9594219,20.8586767 C44.4431064,15.7803451 40.137531,11.9169482 35,11.9220779 L32.48,11.9220779 C30.655519,4.90431503 24.2838678,0.00134705758 16.9884166,0.00134705758 C9.69296537,0.00134705758 3.32131434,4.9043153 1.49683344,11.9220782 C-0.327647453,18.9398412 2.8570984,26.2951242 9.24,29.8051948" id="Path"></path>
+                <polyline id="Path" points="25 19.8701299 17 31.7922078 29 31.7922078 21 43.7142857"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

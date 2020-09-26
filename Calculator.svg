@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Calculator</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Calculator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="calculator-1575939" transform="translate(41.000000, 33.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#1C1C1C" x="0" y="0" width="37.2" height="54" rx="4.8"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="3.6" y="3.6" width="30" height="12.6" rx="2.4"></rect>
+            <circle id="Oval" fill="#FFFFFF" cx="7.2" cy="24" r="3.6"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="18.6" cy="24" r="3.6"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="30" cy="24" r="3.6"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="7.2" cy="35.4" r="3.6"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="18.6" cy="35.4" r="3.6"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="30" cy="35.4" r="3.6"></circle>
+            <path d="M7.2,50.4 C5.2117749,50.4 3.6,48.7882251 3.6,46.8 C3.6,44.8117749 5.2117749,43.2 7.2,43.2 L18.6,43.2 C20.5882251,43.2 22.2,44.8117749 22.2,46.8 C22.2,48.7882251 20.5882251,50.4 18.6,50.4 L7.2,50.4 Z" id="Path" fill="#FFFFFF"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="30" cy="46.8" r="3.6"></circle>
+        </g>
+    </g>
+</svg>

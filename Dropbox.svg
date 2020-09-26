@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Dropbox</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dropbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="dropbox-fill" transform="translate(36.000000, 36.000000)">
+            <polygon id="Path" points="0 0 48 0 48 48 0 48"></polygon>
+            <path d="M34.57,21.336 L45,27.982 L34.496,34.674 L24,27.986 L13.504,34.674 L3,27.98 L13.43,21.334 L3,14.692 L13.504,8 L24,14.686 L34.496,8 L45,14.692 L34.57,21.336 Z M34.422,21.336 L24,14.696 L13.578,21.336 L24,27.976 L34.422,21.336 Z M13.572,36.892 L24.076,30.2 L34.58,36.892 L24.076,43.584 L13.572,36.892 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

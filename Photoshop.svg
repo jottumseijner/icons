@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Photoshop Express</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Photoshop-Express" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="Photoshop">
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <g id="crop" transform="translate(38.000000, 37.753247)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <path d="M10.26,0 L10,29.8051948 C10,31.9999887 11.790861,33.7792208 14,33.7792208 L44,33.7792208" id="Path"></path>
+                <path d="M0,10.1933766 L30,9.93506494 C32.209139,9.93506494 34,11.714297 34,13.9090909 L34,43.7142857" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Lastpass</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Lastpass" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="lastpass" transform="translate(40.000000, 48.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M38,0 C36.8954305,0 36,0.8954305 36,2 L36,22 C36,23.1045695 36.8954305,24 38,24 C39.1045695,24 40,23.1045695 40,22 L40,2 C40,0.8954305 39.1045695,0 38,0 Z" id="Path"></path>
+            <path d="M4,16 C6.209139,16 8,14.209139 8,12 C8,9.790861 6.209139,8 4,8 C1.790861,8 0,9.790861 0,12 C0,14.209139 1.790861,16 4,16 Z" id="Path"></path>
+            <path d="M20,12 C20,14.209139 18.209139,16 16,16 C13.790861,16 12,14.209139 12,12 C12,9.790861 13.790861,8 16,8 C18.209139,8 20,9.790861 20,12 Z" id="Path"></path>
+            <path d="M28,16 C30.209139,16 32,14.209139 32,12 C32,9.790861 30.209139,8 28,8 C25.790861,8 24,9.790861 24,12 C24,14.209139 25.790861,16 28,16 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

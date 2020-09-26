@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Settings</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Settings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g>
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <g id="toggle-right" transform="translate(38.000000, 45.701299)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <rect id="Rectangle" x="0" y="0" width="44" height="27.8181818" rx="13.9090909"></rect>
+                <ellipse id="Oval" cx="30" cy="13.9090909" rx="6" ry="5.96103896"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

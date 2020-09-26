@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Tesla</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Tesla" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="tesla" transform="translate(36.000000, 36.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M24,10.724 L28.95,4.672 C28.95,4.672 37.44,4.852 45.892,8.78 C43.728,12.052 39.43,13.656 39.43,13.656 C39.138,10.778 37.122,10.076 30.722,10.076 L24,48 L17.238,10.068 C10.878,10.068 8.862,10.776 8.568,13.652 C8.568,13.652 4.276,12.062 2.11,8.792 C10.56,4.862 19.05,4.68 19.05,4.68 L24,10.724 L23.992,10.728 L24,10.728 L24,10.724 Z M24,2.926 C30.83,2.866 38.652,3.982 46.656,7.486 C47.726,5.55 48,4.696 48,4.696 C39.25,1.224 31.056,0.03 24,0 C16.944,0.03 8.75,1.22 0,4.698 C0,4.698 0.39,5.748 1.344,7.49 C9.348,3.978 17.17,2.87 24,2.92 L24,2.926 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

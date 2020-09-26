@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Trello</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Trello" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="trello-fill" transform="translate(28.000000, 34.000000)">
+            <polygon id="Path" points="0 0 48 0 48 48 0 48"></polygon>
+            <path d="M18.5,6 L45.5,6 C47.9852814,6 50,8.01471863 50,10.5 L50,37.5 C50,39.9852814 47.9852814,42 45.5,42 L18.5,42 C16.0147186,42 14,39.9852814 14,37.5 L14,10.5 C14,8.01471863 16.0147186,6 18.5,6 Z M34.34,12.84 L34.34,24.36 C34.34,25.552 35.308,26.52 36.5,26.52 L43.16,26.52 C44.3529351,26.52 45.32,25.5529351 45.32,24.36 L45.32,12.84 C45.32,11.6470649 44.3529351,10.68 43.16,10.68 L36.5,10.68 C35.3070649,10.68 34.34,11.6470649 34.34,12.84 L34.34,12.84 Z M18.68,12.84 L18.68,33.36 C18.68,34.552 19.648,35.52 20.84,35.52 L27.5,35.52 C28.6929351,35.52 29.66,34.5529351 29.66,33.36 L29.66,12.84 C29.66,11.6470649 28.6929351,10.68 27.5,10.68 L20.84,10.68 C19.6470649,10.68 18.68,11.6470649 18.68,12.84 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

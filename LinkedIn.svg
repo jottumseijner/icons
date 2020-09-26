@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>LinkedIn</title>
+    <desc>Created with Sketch.</desc>
+    <g id="LinkedIn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="Linkedin">
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <g id="linkedin" transform="translate(41.000000, 38.746753)" fill="#FFFFFF">
+                <path d="M28,11.9220779 C34.627417,11.9220779 40,17.259774 40,23.8441558 L40,37.7532468 L32,37.7532468 L32,23.8441558 C32,21.6493619 30.209139,19.8701299 28,19.8701299 C25.790861,19.8701299 24,21.6493619 24,23.8441558 L24,37.7532468 L16,37.7532468 L16,23.8441558 C16,17.259774 21.372583,11.9220779 28,11.9220779 Z" id="Path"></path>
+                <rect id="Rectangle" x="0" y="14.9025974" width="8" height="23.8441558"></rect>
+                <ellipse id="Oval" cx="4" cy="3.97402597" rx="4" ry="3.97402597"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

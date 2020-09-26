@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g>
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <g id="facebook" transform="translate(50.000000, 39.740260)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <path d="M22,0 L16,0 C10.4771525,0 6,4.44808008 6,9.93506494 L6,15.8961039 L0,15.8961039 L0,23.8441558 L6,23.8441558 L6,39.7402597 L14,39.7402597 L14,23.8441558 L20,23.8441558 L22,15.8961039 L14,15.8961039 L14,9.93506494 C14,8.83766796 14.8954305,7.94805195 16,7.94805195 L22,7.94805195 L22,0 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

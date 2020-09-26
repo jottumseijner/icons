@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Banking</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Banking" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="Finance">
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <g id="dollar-sign" transform="translate(48.000000, 37.753247)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <line x1="12" y1="0" x2="12" y2="43.7142857" id="Path"></line>
+                <path d="M22,7.94805195 L7,7.94805195 C3.13400675,7.94805195 -1.77635684e-15,11.061708 -1.77635684e-15,14.9025974 C-1.77635684e-15,18.7434868 3.13400675,21.8571429 7,21.8571429 L17,21.8571429 C20.8659932,21.8571429 24,24.970799 24,28.8116883 C24,32.6525777 20.8659932,35.7662338 17,35.7662338 L-1.77635684e-15,35.7662338" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

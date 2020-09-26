@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>News</title>
+    <desc>Created with Sketch.</desc>
+    <g id="News" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="newspaper-outline" transform="translate(42.000000, 42.000000)">
+            <path d="M27.6923077,31.8340385 L27.6923077,2.07692308 C27.6889807,0.931251057 26.7610566,0.00332700884 25.6153846,0 L2.07692308,0 C0.931251057,0.00332700884 0.00332700884,0.931251057 0,2.07692308 L0,32.5384615 C0.00570254039,34.4478494 1.55215062,35.9942975 3.46153846,36 L31.8461538,36" id="Path" stroke="#FFFFFF" stroke-width="1.8" stroke-linejoin="round"></path>
+            <path d="M31.8461538,36 L31.8461538,36 C29.552048,36 27.6923077,34.1402597 27.6923077,31.8461538 L27.6923077,6.92307692 L33.9230769,6.92307692 C35.0701299,6.92307692 36,7.85294706 36,9 L36,31.8461538 C36,34.1402597 34.1402597,36 31.8461538,36 Z" id="Path" stroke="#FFFFFF" stroke-width="1.8" stroke-linejoin="round"></path>
+            <line x1="16.6153846" y1="6.92980769" x2="22.1538462" y2="6.92980769" id="Path" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="16.6153846" y1="12.4682692" x2="22.1538462" y2="12.4682692" id="Path" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="5.53846154" y1="18.0067308" x2="22.1538462" y2="18.0067308" id="Path" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="5.53846154" y1="23.5451923" x2="22.1538462" y2="23.5451923" id="Path" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="5.53846154" y1="29.0836538" x2="22.1538462" y2="29.0836538" id="Path" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></line>
+            <path d="M11.0769231,13.8461538 L5.53846154,13.8461538 C4.77375958,13.8461538 4.15384615,13.2262404 4.15384615,12.4615385 L4.15384615,6.92307692 C4.15384615,6.15837496 4.77375958,5.53846154 5.53846154,5.53846154 L11.0769231,5.53846154 C11.841625,5.53846154 12.4615385,6.15837496 12.4615385,6.92307692 L12.4615385,12.4615385 C12.4615385,13.2262404 11.841625,13.8461538 11.0769231,13.8461538 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

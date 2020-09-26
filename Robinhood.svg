@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Robinhood</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Robinhood" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="feather" transform="translate(40.000000, 40.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+            <path d="M36.48,21.48 C41.1688975,16.7911025 41.1688975,9.18889753 36.48,4.5 C31.7911025,-0.188897526 24.1888975,-0.188897526 19.5,4.5 L6,18 L6,35 L23,35 L36.48,21.48 Z" id="Path"></path>
+            <line x1="28" y1="13" x2="0" y2="41" id="Path"></line>
+            <line x1="31" y1="27" x2="14" y2="27" id="Path"></line>
+        </g>
+    </g>
+</svg>

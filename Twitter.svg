@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Twitter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Twitter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g>
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <g id="twitter" transform="translate(38.000000, 41.727273)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <path d="M44,0.0204555715 C42.08477,1.36683498 39.9642158,2.39659921 37.72,3.07009199 C35.2527191,0.242775649 31.2767399,-0.748701977 27.7641629,0.58743567 C24.2515859,1.92357332 21.9496005,5.30310528 22,9.04977124 L22,11.0429977 C14.8613297,11.2274755 8.10405062,7.83783079 4,2.01368199 C4,2.01368199 -4,19.9527197 14,27.9256254 C9.88105513,30.7120888 4.97431382,32.1092668 0,31.9120782 C18,41.8782103 40,31.9120782 40,8.98997445 C39.9981582,8.43476848 39.944595,7.88093211 39.84,7.33559652 C41.8812063,5.32940034 43.3216548,2.79644749 44,0.0204555715 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

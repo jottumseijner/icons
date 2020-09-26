@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>GitHub</title>
+    <desc>Created with Sketch.</desc>
+    <g id="GitHub" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="Github">
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <g id="github" transform="translate(41.000000, 37.753247)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <path d="M14,36.7597403 C4,39.7402597 4,31.7922078 0,30.7987013 M28,42.7207792 L28,35.031039 C28.1517663,33.1143608 27.4669823,31.2253391 26.12,29.8449351 C32.4,29.1494805 39,26.7849351 39,15.9358442 C38.9994867,13.1616303 37.9253842,10.4938106 36,8.48454545 C36.9117117,6.0574221 36.847248,3.37464226 35.82,0.993506494 C35.82,0.993506494 33.46,0.298051948 28,3.93428571 C23.4160181,2.69999645 18.5839819,2.69999645 14,3.93428571 C8.54,0.298051948 6.18,0.993506494 6.18,0.993506494 C5.152752,3.37464226 5.08828826,6.0574221 6,8.48454545 C4.06025423,10.508715 2.9850453,13.2006471 2.99984607,15.9954545 C2.99984607,26.7650649 9.6,29.1296104 15.88,29.9045455 C14.5492392,31.2707432 13.8657428,33.134541 14,35.031039 L14,42.7207792" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

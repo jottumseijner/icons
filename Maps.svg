@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Maps</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Maps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="map" transform="translate(40.000000, 42.000000)" fill="#FFFFFF">
+            <path d="M13.36754,0.10264 C13.77808,-0.03422 14.22192,-0.03422 14.63246,0.10264 L26,3.89182 L34.735,0.98012 C37.3252,0.11674 40,2.04462 40,4.77486 L40,28.5584 C40,30.2802 38.8982,31.8088 37.265,32.3532 L26.6324,35.8974 C26.222,36.0342 25.778,36.0342 25.3676,35.8974 L14,32.1082 L5.26492,35.0198 C2.67478,35.8832 0,33.9554 0,31.2252 L0,7.44152 C0,5.7198 1.10172,4.19124 2.73508,3.64678 L13.36754,0.10264 Z M16,28.5584 L24,31.2252 L24,7.44152 L16,4.77486 L16,28.5584 Z M12,4.77486 L12,28.5584 L4,31.2252 L4,7.44152 L12,4.77486 Z M28,7.44152 L28,31.2252 L36,28.5584 L36,4.77486 L28,7.44152 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

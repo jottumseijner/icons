@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="119px" viewBox="0 0 120 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Images</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Images" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="119"></rect>
+        <g transform="translate(0.000000, -0.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#000000" style="mix-blend-mode: multiply;" x="0" y="0" width="120" height="119.220779" rx="26"></rect>
+            <path d="M44.0276068,72.525974 L76.9314539,72.525974 C78.0671508,72.5326044 78.9932141,71.5919135 79,70.4245374 C79.003111,69.8566353 78.7838377,69.3114547 78.3915622,68.9115851 L70.1656004,60.4571239 C69.3634406,59.6375695 68.0681086,59.6375695 67.2659488,60.4571239 L64.5925112,63.2048238 L57.8266577,56.2510294 C57.0244979,55.4314751 55.7291659,55.4314751 54.9270061,56.2510294 L42.5880635,68.9327212 C41.7929728,69.7662783 41.8056974,71.104461 42.6167258,71.9216375" id="Path" fill="#FFFFFF"></path>
+            <ellipse id="Oval" fill="#FFFFFF" cx="71.5" cy="52.1590909" rx="4.5" ry="4.47077922"></ellipse>
+        </g>
+    </g>
+</svg>

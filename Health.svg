@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Health</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Health" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g>
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <path d="M77.7614075,44.8892672 C75.6887971,42.8647273 72.87715,41.7272727 69.945348,41.7272727 C67.0135461,41.7272727 64.201899,42.8647273 62.1292886,44.8892672 L59.9994626,46.9687193 L57.8696366,44.8892672 C53.5529462,40.6746737 46.5542082,40.6746737 42.2375178,44.8892673 C37.9208274,49.1038609 37.9208274,55.9370672 42.2375177,60.1516608 L44.3673437,62.2311129 L59.9994626,77.4935065 L75.6315815,62.2311129 L77.7614075,60.1516608 C79.834991,58.128071 81,55.382924 81,52.520464 C81,49.658004 79.834991,46.912857 77.7614075,44.8892672 Z" id="Path" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

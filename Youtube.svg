@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Youtube</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Youtube" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="youtube-fill" transform="translate(38.000000, 42.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M43.97175,5.6205 C45,9.63 45,18 45,18 C45,18 45,26.37 43.97175,30.3795 C43.40025,32.59575 41.7285,34.3395 39.61125,34.929 C35.766,36 22.5,36 22.5,36 C22.5,36 9.24075,36 5.38875,34.929 C3.2625,34.3305 1.593,32.589 1.02825,30.3795 C0,26.37 0,18 0,18 C0,18 0,9.63 1.02825,5.6205 C1.59975,3.40425 3.2715,1.6605 5.38875,1.071 C9.24075,0 22.5,0 22.5,0 C22.5,0 35.766,0 39.61125,1.071 C41.7375,1.6695 43.407,3.411 43.97175,5.6205 Z M18,25.875 L31.5,18 L18,10.125 L18,25.875 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

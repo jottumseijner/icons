@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Nike</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Nike" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g id="nike" transform="translate(30.000000, 50.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M33.6557895,6.75953216 L29.9355556,7.73637427 L19.6132164,10.4385965 C15.9678363,11.3405848 12.7790643,12.5419883 9.70631579,11.4902924 C5.52947368,9.68631579 5.60432749,4.99298246 8.71824561,0.000233918129 C3.21274854,4.54385965 -6.69415205,19.0729825 6.70467836,20.540117 C8.41134503,20.7646784 11.4504094,20.165848 14.751462,18.7773099 L29.9355556,12.545731 L59.8845614,0.299649123 L33.6557895,6.75953216 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

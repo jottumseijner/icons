@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Calendar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Calendar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#000000" x="0" y="0" width="120" height="120"></rect>
+        <g>
+            <rect id="Rectangle" fill="#000000" fill-rule="nonzero" style="mix-blend-mode: multiply;" x="0" y="-4.26325641e-14" width="120" height="119.220779" rx="26"></rect>
+            <g id="calendar" transform="translate(42.000000, 39.740260)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <rect id="Rectangle" x="0" y="3.97402597" width="36" height="35.7662338" rx="4"></rect>
+                <line x1="26" y1="0" x2="26" y2="7.94805195" id="Path"></line>
+                <line x1="10" y1="0" x2="10" y2="7.94805195" id="Path"></line>
+                <line x1="0" y1="15.8961039" x2="36" y2="15.8961039" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>
